@@ -1,0 +1,94 @@
+# CC-CEDICT
+# Community maintained free Chinese-English dictionary.
+# 
+# Published by MDBG
+# 
+# License:
+# Creative Commons Attribution-Share Alike 3.0
+# http://creativecommons.org/licenses/by-sa/3.0/
+# 
+# Referenced works:
+# CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski
+# 
+# CC-CEDICT can be downloaded from:
+# http://www.mdbg.net/chindict/chindict.php?page=cc-cedict
+# 
+# Additions and corrections can be sent through:
+# http://cc-cedict.org/editor/editor.php
+㐡 㐡 [nuo4] /archaic variant of 懦[nuo4]/
+㐤 㐤 [qiu2] /archaic variant of 求[qiu2]/
+㐫 㐫 [xiong1] /old variant of 凶[xiong1]/
+㐰 㐰 [xin4] /old variant of 信[xin4]/
+㐺 㐺 [zhong4] /old variant of 眾|众[zhong4]/
+㑳 㑇 [zhou4] /(old) beautiful/clever/
+㑺 俊 [jun4] /old variant of 俊[jun4]/
+㒳 㒳 [liang3] /old variant of 兩|两[liang3]/
+㒸 㒸 [sui4] /archaic variant of 遂[sui4]/
+㒺 罔 [wang3] /old variant of 罔[wang3]/
+㓂 寇 [kou4] /old variant of 寇[kou4]/
+㔾 㔾 [jie2] /"seal" radical in Chinese characters (Kangxi radical 26)/
+㕁 却 [que4] /old variant of 卻|却[que4]/
+㕑 厨 [chu2] /old variant of 廚|厨[chu2]/
+㕥 㕥 [shen1] /old variant of 呻[shen1]/
+㕥 以 [yi3] /old variant of 以[yi3]/
+㕻 㕻 [pou3] /variant of 咅[pou3]/also pr. [tou4]/
+㗂 㗂 [sheng3] /variant of 省[sheng3]/tight-lipped/to examine/to watch/to scour (esp. Cantonese)/
+㗎 㗎 [jia4] /sentence-final particle, contraction of "嘅呀" (Cantonese)/see also 嘅[kai4]/
+㘭 坳 [ao4] /variant of 坳[ao4]/
+㚻 㚻 [ji1] /see 㚻姦|㚻奸[ji1 jian1]/
+㚻姦 㚻奸 [ji1 jian1] /variant of 雞姦|鸡奸[ji1 jian1]/
+㛂 㛂 [nuo3] /graceful/frail and petite/
+㝛 宿 [su4] /old variant of 宿[su4]/
+㝠 冥 [ming2] /old variant of 冥[ming2]/
+㝡 最 [zui4] /variant of 最[zui4]/
+㝵 㝵 [ai4] /variant of 礙|碍[ai4]/
+㝵 㝵 [de2] /to obtain/old variant of 得[de2]/
+㞎 㞎 [ba3] /(baby talk) poop/see 㞎㞎[ba3 ba5]/
+㞎㞎 㞎㞎 [ba3 ba5] /(baby talk) poop/
+㞙 㞙 [niao4] /old variant of 尿[niao4]/
+㞞 㞞 [song2] /(coll.) semen/weak and incompetent/
+㟁 岸 [an4] /variant of 岸[an4]/
+㠀 岛 [dao3] /variant of 島|岛[dao3]/
+㠯 以 [yi3] /old variant of 以[yi3]/
+㠶 帆 [fan1] /variant of 帆[fan1]/
+㡌 帽 [mao4] /old variant of 帽[mao4]/
+㢘 廉 [lian2] /old variant of 廉[lian2]/
+㢠 迥 [jiong3] /variant of 迥[jiong3]/
+㢲 㢲 [xun4] /variant of 巽[xun4]/
+㢴 㢴 [xi1] /old variant of 西[xi1]/
+㤅 㤅 [ai4] /archaic variant of 愛|爱[ai4]/
+㤙 恩 [en1] /variant of 恩[en1]/
+㥁 㥁 [de2] /variant of 德[de2]/
+㥦 惬 [qie4] /variant of 愜|惬[qie4]/
+㥯 㥯 [yin3] /cautious/
+㦂 㦂 [chang2] /old variant of 常[chang2]/
+㧯 㧯 [lao3] /round-bottomed wicker basket/(dialect) to lift/to carry on one's shoulder/
+㧱 拿 [na2] /old variant of 拿[na2]/
+㨗 捷 [jie2] /variant of 捷[jie2]/quick/nimble/
+㨪 晃 [huang3] /variant of 晃[huang3]/
+㨿 据 [ju4] /variant of 據|据[ju4]/
+㩐 㩐 [den4] /variant of 扽[den4]/
+㩗 携 [xie2] /old variant of 攜|携[xie2]/
+㩜 㨫 [lan3] /variant of 擥[lan3]/
+㩦 携 [xie2] /old variant of 攜|携[xie2]/
+㪃 㪃 [he2] /to beat/to hit/
+㪋 㪋 [han4] /variant of 捍[han4]/
+㪚 散 [san4] /variant of 散[san4]/
+㪟 敦 [dun1] /variant of 敦[dun1]/
+㫺 㫺 [xi1] /old variant of 昔[xi1]/
+㬉 暖 [nuan3] /old variant of 暖[nuan3]/
+㬎 㬎 [xian3] /old variant of 顯|显[xian3]/visible/apparent/
+㮎 㮎 [bei1] /variant of 杯[bei1]/
+㮚 㮚 [li4] /old variant of 栗[li4]/
+㮸 㮸 [song4] /variant of 送[song4]/
+㯭 橹 [lu3] /variant of 櫓|橹[lu3]/
+㯳 㯳 [qing2] /variant of 檠[qing2]/
+㱃 饮 [yin3] /old variant of 飲|饮[yin3]/
+㱾 㱾 [gai1] /a kind of metal or jade ornament worn in ancient times to ward off evil spirits/
+㲈 㲈 [shao2] /variant of 韶[shao2]/
+㲈 㲈 [tao2] /variant of 鞀[tao2]/
+㲋 㲋 [chuo4] /ancient name for an animal similar to rabbit but bigger/
+㲱 㲱 [lie4] /old variant of 鬣[lie4]/
+㲾 㲾 [yu3] /old variant of 雨[yu3]/
+㳂 㳂 [yan2] /variant of 沿[yan2]/
+㳄 涎 [xian2] /variant of 涎[xian2]/
