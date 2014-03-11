@@ -20,6 +20,7 @@ class Entry(Base):
     pinyin = Column(String(64))
     definition = Column(String(64))
 
+
 ### End class declarations
 
 def connect():

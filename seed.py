@@ -2,30 +2,27 @@ import model
 import csv
 
 def load_dict(session):
-    with open('cedict.txt', 'rb') as f:
-        reader = csv.reader(f)
+    with open('cedict3.csv', 'rb') as f:
+        reader = csv.reader(f, delimiter=',', quotechar='"')
         for row in reader:
-            if row[0][0] == '#':
+            if row[0] == '#':
                 continue
             else:
-                def_tokens = row[0].split('/')
-                if len(def_tokens) > 1:
-                    definition = ' '.join(def_tokens[1:]).decode('utf-8')
-                else:
-                    definition = ""
+                for i in range(len(row)):
+                    row[i] = row[i].decode('utf-8')
 
-                entry_tokens = def_tokens[0].split(' ')
-                if len(entry_tokens) > 2:
-                    simp = entry_tokens[0].decode('utf-8')
-                    trad = entry_tokens[1].decode('utf-8')
-                    pinyin = entry_tokens[2].strip('[]')
-                else: 
-                    print "There aren't enough tokens in this entry!", row
+                trad, simp, pinyin = row[0], row[1], row[2]
+                definition = ''.join(row[3:])
+                pinyin = pinyin.strip('"')
+                definition = definition.strip('"')
 
                 entry = model.Entry(simplified=simp, traditional=trad, pinyin=pinyin, definition=definition)
                 session.add(entry)
 
+        try: 
             session.commit()
+        except sqlalchemy.exc.IntegrityError, e:
+            session.rollback()
 
 def main(session):
     load_dict(session)
